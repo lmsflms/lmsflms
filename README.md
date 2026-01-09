@@ -2,6 +2,5 @@
 
 I'm a student using this GitHub page mainly for personal and experimental projects, including small-scale ideas and mini-projects. Some repositories may be incomplete, inconsistent, or exploratory, as this space is mainly used for learning and testing.
 
-As of now, I have some little experience with <img src="https://github.com/user-attachments/assets/76d328ee-63a9-49de-81a5-20e146b9517a" width="18"/> Python, <img src="https://github.com/user-attachments/assets/1e13a759-76ec-468c-931d-1d2669d8b4eb" width="18" /> C++, <img src="https://github.com/user-attachments/assets/d1693460-b1c7-4b23-a5fb-53a00ecba405" width="18"/> JavaScript, and <img src="https://github.com/user-attachments/assets/11d87848-cf7f-4f12-8ed1-94ee3a5c6ce8" width="18"/> Kotlin.
-
+As of now, I have some little experience with <img src="https://github.com/user-attachments/assets/d912db34-9020-4193-8ab9-ceb83c733699" width="20" align="center"/> Python, <img src="https://github.com/user-attachments/assets/21992fc9-c367-49d6-8d00-1393d3a3334a" width="20" align="center"/> C++, <img src="https://github.com/user-attachments/assets/814ea29e-8206-4867-a0f9-5d82de4755ca" width="20" align="center"/> JavaScript, and <img src="https://github.com/user-attachments/assets/b045c6cf-afec-47ae-9095-267ad952da98" width="20" align="center"/> Kotlin.
 ![](https://komarev.com/ghpvc/?username=lmsflms&style=pixel)
